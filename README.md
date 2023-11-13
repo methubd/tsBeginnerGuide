@@ -1,5 +1,5 @@
-# TypeScript
-# by Mehdi Hasan Shohan
+# TypeScript Notes
+### by Mehdi Hasan Shohan
 TypeScript is a strongly typed programming language that builds on JavaScript, giving you better tooling at any scale. TypeScript is often used in web development to build large-scale applications and is particularly popular with developers using frameworks like Angular.
 
 - [Typescript official documentation](https://www.typescriptlang.org/docs/handbook)
